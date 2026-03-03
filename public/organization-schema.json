@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "baugewerbe-stellenangebote.de",
+  "url": "https://baugewerbe-stellenangebote.de",
+  "description": "Spezialisiertes Jobportal fuer Baugewerbe-Stellenangebote in Deutschland, Oesterreich und der Schweiz.",
+  "logo": "https://baugewerbe-stellenangebote.de/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "availableLanguage": [
+      "German",
+      "English"
+    ]
+  },
+  "sameAs": []
+}

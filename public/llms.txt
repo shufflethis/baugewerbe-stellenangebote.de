@@ -1,0 +1,19 @@
+# HR-UPDATER: v1.0
+# baugewerbe-stellenangebote.de - Baugewerbe Stellenangebote
+
+> baugewerbe-stellenangebote.de ist ein spezialisiertes Jobportal fuer Baugewerbe-Stellenangebote in Deutschland, Oesterreich und der Schweiz.
+
+## Ueber uns
+- Spezialisiertes Jobportal fuer Baugewerbe
+- Kostenlose Stellensuche fuer Bewerber
+- Gezielte Reichweite fuer Arbeitgeber
+
+## Kontakt
+- Website: https://baugewerbe-stellenangebote.de
+- Arbeitgeber-Kontakt: https://baugewerbe-stellenangebote.de/kontakt-arbeitgeber
+- Bewerber-Kontakt: https://baugewerbe-stellenangebote.de/kontakt-bewerber
+
+## Inhalte
+- Aktuelle Baugewerbe-Stellenangebote
+- Karriere-Ratgeber fuer Baugewerbe
+- Gehaltsvergleiche und Brancheninformationen

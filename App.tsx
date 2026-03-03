@@ -5,6 +5,8 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import Impressum from './pages/Impressum';
 import { PageRoute } from './types';
+import Datenschutz from './pages/Datenschutz';
+import AutorSeite from './pages/AutorSeite';
 
 // Placeholder components for routes not fully implemented in this demo
 const EmployerPage = () => (
@@ -51,6 +53,10 @@ const App: React.FC = () => {
             <Route path={PageRoute.EMPLOYEES} element={<EmployeePage />} />
             <Route path={PageRoute.IMPRESSUM} element={<Impressum />} />
             <Route path="*" element={<Navigate to={PageRoute.HOME} replace />} />
+                    {/* // HR-UPDATER: v1.0 */}
+          <Route path="/impressum" element={<Impressum />} />
+          <Route path="/datenschutz" element={<Datenschutz />} />
+          <Route path="/autor/thomas-sander" element={<AutorSeite />} />
           </Routes>
         </main>
         <Footer />
