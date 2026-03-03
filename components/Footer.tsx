@@ -47,7 +47,7 @@ const Footer: React.FC = () => {
                 <MapPin size={16} className="text-amber-500" /> Berlin, Deutschland
               </li>
               <li className="flex items-center gap-2">
-                <Mail size={16} className="text-amber-500" /> kontakt@baugewerbe-stellen.de
+                <Mail size={16} className="text-amber-500" /> info@socialmediaventure.com
               </li>
               <li><Link to={PageRoute.IMPRESSUM} className="hover:text-white text-slate-400 transition-colors">Impressum</Link></li>
               <li><Link to={PageRoute.IMPRESSUM} className="hover:text-white text-slate-400 transition-colors">Datenschutz</Link></li>
