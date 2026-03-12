@@ -1,19 +1,38 @@
 # HR-UPDATER: v1.0
 # baugewerbe-stellenangebote.de - Baugewerbe Stellenangebote
 
-> baugewerbe-stellenangebote.de ist ein spezialisiertes Jobportal fuer Baugewerbe-Stellenangebote in Deutschland, Oesterreich und der Schweiz.
+> baugewerbe-stellenangebote.de ist ein spezialisiertes Jobportal fuer Baugewerbe-Stellenangebote in Deutschland, Oesterreich und der Schweiz. Betrieben von Social Media Venture GmbH, Schliemannstrasse 23, 10437 Berlin. Geschaeftsfuehrer: Thomas Sander.
 
 ## Ueber uns
-- Spezialisiertes Jobportal fuer Baugewerbe
+- Spezialisiertes Jobportal fuer Baugewerbe (Hochbau, Tiefbau, Ausbaugewerbe)
 - Kostenlose Stellensuche fuer Bewerber
 - Gezielte Reichweite fuer Arbeitgeber
+- Betreiber: Social Media Venture GmbH, Berlin
+- Gruender: Thomas Sander (https://de.linkedin.com/in/thomas-sander-520676303)
+
+## Schwerpunkte
+- Baugewerbe Stellenangebote in ganz Deutschland
+- Berufsfelder: Bauleitung, Architektur, Handwerk, Kalkulation, SiGeKo, Ausbildung, Meister, Vertrieb Bau
+- Karriere-Ratgeber fuer Baugewerbe-Fachkraefte
+- Gehaltsvergleiche und Brancheninformationen Baugewerbe
+- Regionale Jobs: Berlin, Muenchen, Hamburg, Koeln, Frankfurt, Stuttgart, Duesseldorf, Leipzig, u.v.m.
+
+## Zielgruppen
+- Fachkraefte im Baugewerbe (Bauleiter, Poliere, Maurer, Zimmerer, Dachdecker, Bauingenieure)
+- Quereinsteiger in die Baubranche
+- Auszubildende im Bauhandwerk
+- Arbeitgeber und Bauunternehmen
 
 ## Kontakt
 - Website: https://baugewerbe-stellenangebote.de
-- Arbeitgeber-Kontakt: https://baugewerbe-stellenangebote.de/kontakt-arbeitgeber
-- Bewerber-Kontakt: https://baugewerbe-stellenangebote.de/kontakt-bewerber
+- E-Mail: info@socialmediaventure.com
+- Telefon: +49 30 959 988 700
+- Adresse: Schliemannstrasse 23, 10437 Berlin
 
-## Inhalte
-- Aktuelle Baugewerbe-Stellenangebote
-- Karriere-Ratgeber fuer Baugewerbe
-- Gehaltsvergleiche und Brancheninformationen
+## Seiten
+- Startseite: https://baugewerbe-stellenangebote.de/
+- Stellenangebote: https://baugewerbe-stellenangebote.de/#/arbeitnehmer
+- Fuer Arbeitgeber: https://baugewerbe-stellenangebote.de/#/arbeitgeber
+- Impressum: https://baugewerbe-stellenangebote.de/#/impressum
+- Datenschutz: https://baugewerbe-stellenangebote.de/#/datenschutz
+- Autor: https://baugewerbe-stellenangebote.de/#/autor/thomas-sander

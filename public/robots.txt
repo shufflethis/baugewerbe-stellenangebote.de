@@ -1,6 +1,8 @@
 # HR-UPDATER: v1.0
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /admin/
 
 Sitemap: https://baugewerbe-stellenangebote.de/sitemap.xml
 
@@ -19,3 +21,12 @@ Allow: /
 
 User-agent: ClaudeBot
 Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# LLMs.txt reference
+# See https://baugewerbe-stellenangebote.de/llms.txt
