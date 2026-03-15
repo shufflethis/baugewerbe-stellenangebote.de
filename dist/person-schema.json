@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Thomas Sander",
+  "url": "https://baugewerbe-stellenangebote.de/autor/thomas-sander",
+  "jobTitle": "Gruender & Geschaeftsfuehrer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "baugewerbe-stellenangebote.de",
+    "url": "https://baugewerbe-stellenangebote.de"
+  },
+  "description": "Gruender von baugewerbe-stellenangebote.de - spezialisiertes Jobportal fuer Baugewerbe-Stellenangebote.",
+  "knowsAbout": [
+    "Baugewerbe",
+    "Personalwesen",
+    "Recruiting",
+    "Jobportale"
+  ]
+}
